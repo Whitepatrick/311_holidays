@@ -1,0 +1,8 @@
+requests[security]
+pandas
+numpy
+#sciypy
+sklearn
+statsmodel
+matplotlib
+ipython[notebook]
