@@ -3,6 +3,6 @@ pandas
 numpy
 #sciypy
 sklearn
-statsmodel
+statsmodels
 matplotlib
 ipython[notebook]
