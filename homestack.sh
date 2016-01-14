@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "WORK VERSION"
+echo "HOME VERSION"
 echo "stopping ipython if running"
 sudo docker stop ipython
 echo "removing ipython container if lingering"
