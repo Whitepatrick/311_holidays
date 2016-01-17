@@ -1,8 +1,0 @@
-requests[security]
-pandas
-numpy
-#sciypy
-sklearn
-statsmodels
-matplotlib
-ipython[notebook]
