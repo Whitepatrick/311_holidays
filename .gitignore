@@ -6,3 +6,4 @@ data.tar.gz
 *.pyc
 .*
 *env
+clean_data/final/nyc/NYC.csv
